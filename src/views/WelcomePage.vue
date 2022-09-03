@@ -44,12 +44,12 @@
       </div>
 
       <div>
-        <BaseTitle number="04" title="Gestion et collaboration"/>
+        <BaseTitle number="04" title="Gestion & collaboration"/>
         <BaseTech :languages="management" />
       </div>
 
       <div>
-        <BaseTitle number="05" title="Outils de deploiement"/>
+        <BaseTitle number="05" title="Deploiement & serveur"/>
         <BaseTech :languages="deployment" />
       </div>
 
