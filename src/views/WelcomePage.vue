@@ -54,7 +54,7 @@
       </div>
 
       <div>
-        <BaseTitle number="06" title="Système d'exploitations"/>
+        <BaseTitle number="06" title="Systèmes d'exploitation"/>
         <BaseTech :languages="systems" />
       </div>
     </div>
@@ -207,6 +207,14 @@
     {
       name: "Docker",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    },
+    {
+      name: "Nginx",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+    },
+    {
+      name: "Apache",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
     }
   ])
 
