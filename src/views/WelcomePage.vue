@@ -15,7 +15,7 @@
       </div>
       <div class="flex sm:justify-end w-full sm:px-0 mt-6 sm:mt-0 md:w-2/5 relative group">
         <div class="absolute h-full sm:w-52 sm:h-56 right-0 left-32 sm:left-auto sm:-right-2 top-0 sm:top-2 rounded-l-3xl sm:rounded-l-none transition ease-in-out delay-100 group-hover:-right-1 group-hover:top-1 bg-teal-300 sm:bg-teal-400"></div>
-        <div class="w-64 h-64 shadow sm:shadow-none rounded-full sm:rounded-none sm:w-52 sm:h-56 z-10 relative overflow-hidden">
+        <div class="w-64 h-64 shadow sm:shadow-none rounded-full bg-gray-100 sm:rounded-none sm:w-52 sm:h-56 z-10 relative overflow-hidden">
           <img src="@/assets/img/me.jpeg" class="w-full h-full object-cover z-10 relative rounded" alt="">
         </div>
       </div>
