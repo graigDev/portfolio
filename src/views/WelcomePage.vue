@@ -9,7 +9,7 @@
           <p class="text-sm text-gray-700 font-sf">Développeur web full-stack</p>
         </div>
         <div class="text-sm leading-loose text-justify font-medium text-gray-700 pr-4">
-          Développeur web depuis plus de 4 ans. J'aime mettre de l'ordre dans le chaos. Structurer les données, écrire du code propre et optimiser les processus - je produis d'excellents résultats et j'apprends en cours de route.
+          Développeur web depuis plus de 5 ans. J'aime mettre de l'ordre dans le chaos. Structurer les données, écrire du code propre et optimiser les processus - je produis d'excellents résultats et j'apprends en cours de route.
         </div>
         <p class="font-sf text-sm my-3 text-gray-600">TOGO &boxh; Lomé</p>
       </div>
