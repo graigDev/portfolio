@@ -1,5 +1,5 @@
 <template>
-  <div data-simplebar data-simplebar-auto-hide="false" class="flex flex-col h-screen border-2 relative overflow-y-auto overflow-x-hidden">
+  <div data-simplebar data-simplebar-auto-hide="false" class="flex flex-col h-screen relative overflow-y-auto overflow-x-hidden">
     <router-view/>
     <router-view name="footer"/>
   </div>
