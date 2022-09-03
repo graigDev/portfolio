@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: sfMono;
+    src: url("../font/SFMonoRegular.woff");
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    @apply overflow-hidden
+}
+
+.font-sf{
+    font-family: sfMono;
+}
