@@ -5,11 +5,11 @@
       <div class="md:w-3/5">
         <div class="mb-5">
           <span class="text-sm font-bold text-teal-600 font-sf">Hello, moi c'est</span>
-          <h1 class="text-4xl my-4 text-gray-800 font-bold">Graig Daketingue</h1>
-          <p class="text-sm text-gray-700 font-sf">Développeur web full-stack</p>
+          <h1 class="text-4xl my-4 text-gray-800 font-bold">Graig DAKETINGUE</h1>
+          <p class="text-sm text-gray-700 font-sf">Développeur PHP/PYTHON full-stack</p>
         </div>
         <div class="text-sm leading-loose text-justify font-medium text-gray-700 pr-4">
-          Développeur web depuis plus de 5 ans. J'aime mettre de l'ordre dans le chaos. Structurer les données, écrire du code propre et optimiser les processus - je produis d'excellents résultats et j'apprends en cours de route.
+          Développeur web depuis plus de 6 ans. J'aime mettre de l'ordre dans le chaos. Structurer les données, écrire du code propre et optimiser les processus - je produis d'excellents résultats et j'apprends en cours de route.
         </div>
         <p class="font-sf text-sm my-3 text-gray-600">TOGO &boxh; Lomé</p>
       </div>
@@ -68,7 +68,7 @@
         <p class="text-sm font-medium text-gray-700">Si vous voulez travailler avec moi ou si vous avez des questions.</p>
       </div>
         <a
-           href="mailto:graigdev@gmail.com"
+           href="mailto:hello@graigdaketingue.me"
            class="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 my-4 border-teal-600 text-teal-600 inline-block px-3 py-2 border-2 rounded-md text-sm font-sf font-semibold hover:bg-teal-500 hover:bg-opacity-10"
         >
           Dites bonjour
@@ -123,6 +123,10 @@
       name: "JavaScript",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     },
+    {
+      name: "TypeScript",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    },
   ])
 
   const frontFramework = reactive([
@@ -131,12 +135,20 @@
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
     },
     {
+      name: "Nuxt",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+    },
+    {
       name: "Bootstrap",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
     },
     {
       name: "Tailwindcss",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      name: "AlpineJs",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg"
     },
   ])
 
@@ -154,7 +166,11 @@
   const backFrameworks = reactive([
     {
       name: "Laravel",
-      src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+    },
+    {
+      name: "Livewire",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg"
     },
     {
       name: "Flask",
@@ -174,6 +190,10 @@
     {
       name: "SQLlite",
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+    },
+    {
+      name: "mongoDB",
+      src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
     },
   ])
 

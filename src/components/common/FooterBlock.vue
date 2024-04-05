@@ -1,5 +1,5 @@
 <template>
-  <div class="hidden lg:flex flex-col w-8 items-center space-y-6 items-center fixed bottom-0 sm:left-4 md:left-10">
+  <div class="hidden lg:flex flex-col w-8 items-center space-y-6 fixed bottom-0 sm:left-4 md:left-10">
     <ul class="flex flex-col space-y-4">
       <li>
         <a href="//github.com/graigDev" class="" target="_blank">
@@ -23,7 +23,7 @@
   <!-- Right -->
   <div class="hidden lg:flex flex-col w-8 items-center space-y-24 items-center fixed bottom-0 sm:right-4 md:right-10">
     <div class="transition ease-in-out delay-75 hover:-translate-y-1 hover:scale-110 transform rotate-90">
-      <a href="mailto:graigdev@gmail.com" class="text-sm font-sf hover:text-teal-600 p-1">graigdev@gmail.com</a>
+      <a href="mailto:hello@graigdaketingue.me" class="text-sm font-sf hover:text-teal-600 p-1">hello@graigdaketingue.me</a>
     </div>
     <div class="h-20 border-l-2 border-gray-500"></div>
   </div>
